@@ -4,7 +4,10 @@ It is used to retrive information from the google spreadsheet through an ID# sen
 
 ## Description
 
-In this examlple, it is used by drivers employed working on on-demand delivery in a company and each driver has their own id number. When the Id is sent to the telegram bot it displays their weekly orders deliverd, income, and bonus.
+In this examlple, it is used by drivers working on an on-demand delivery in a company and each driver has their own id number. When the Id is sent to the telegram bot it displays their weekly orders deliverd, income, and bonus.
+
+## Google Spreadsheet Example 
+![](spreadsheet.png)
 
 ## Getting Started
 
